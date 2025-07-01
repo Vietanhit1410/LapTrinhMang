@@ -1,0 +1,11 @@
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\DTO\bin\Debug\net8.0\DTO.deps.json
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\DTO\bin\Debug\net8.0\DTO.dll
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\DTO\bin\Debug\net8.0\DTO.pdb
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\DTO\obj\Debug\net8.0\DTO.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\DTO\obj\Debug\net8.0\DTO.AssemblyInfoInputs.cache
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\DTO\obj\Debug\net8.0\DTO.AssemblyInfo.cs
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\DTO\obj\Debug\net8.0\DTO.csproj.CoreCompileInputs.cache
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\DTO\obj\Debug\net8.0\DTO.dll
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\DTO\obj\Debug\net8.0\refint\DTO.dll
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\DTO\obj\Debug\net8.0\DTO.pdb
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\DTO\obj\Debug\net8.0\ref\DTO.dll

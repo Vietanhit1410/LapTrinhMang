@@ -1,0 +1,12 @@
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Database\bin\Debug\net8.0\Database.deps.json
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Database\bin\Debug\net8.0\Database.dll
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Database\bin\Debug\net8.0\Database.pdb
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Database\obj\Debug\net8.0\Database.csproj.AssemblyReference.cache
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Database\obj\Debug\net8.0\Database.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Database\obj\Debug\net8.0\Database.AssemblyInfoInputs.cache
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Database\obj\Debug\net8.0\Database.AssemblyInfo.cs
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Database\obj\Debug\net8.0\Database.csproj.CoreCompileInputs.cache
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Database\obj\Debug\net8.0\Database.dll
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Database\obj\Debug\net8.0\refint\Database.dll
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Database\obj\Debug\net8.0\Database.pdb
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Database\obj\Debug\net8.0\ref\Database.dll

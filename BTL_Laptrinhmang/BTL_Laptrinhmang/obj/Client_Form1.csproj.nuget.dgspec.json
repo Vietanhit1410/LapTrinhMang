@@ -1,0 +1,211 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\Client_Form1.csproj": {}
+  },
+  "projects": {
+    "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\Client_Form1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\Client_Form1.csproj",
+        "projectName": "Client_Form1",
+        "projectPath": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\Client_Form1.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0-windows"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Admin\\.nuget\\packages": {}
+        },
+        "frameworks": {
+          "net8.0-windows7.0": {
+            "targetAlias": "net8.0-windows",
+            "projectReferences": {
+              "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\Client_tcp\\Client_tcp.csproj": {
+                "projectPath": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\Client_tcp\\Client_tcp.csproj"
+              },
+              "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\DTO\\DTO.csproj": {
+                "projectPath": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.4.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            },
+            "Microsoft.WindowsDesktop.App.WindowsForms": {
+              "privateAssets": "none"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\Client_tcp\\Client_tcp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\Client_tcp\\Client_tcp.csproj",
+        "projectName": "Client_tcp",
+        "projectPath": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\Client_tcp\\Client_tcp.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\Client_tcp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Admin\\.nuget\\packages": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\DTO\\DTO.csproj": {
+                "projectPath": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\DTO\\DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\DTO\\DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\DTO\\DTO.csproj",
+        "projectName": "DTO",
+        "projectPath": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\DTO\\DTO.csproj",
+        "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
+        "outputPath": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\library-packs": {},
+          "C:\\Users\\Admin\\.nuget\\packages": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

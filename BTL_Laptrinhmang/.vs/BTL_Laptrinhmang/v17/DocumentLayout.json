@@ -1,0 +1,167 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C9F4E4C-2C55-4414-B61B-E192B8A4A8F3}|Database\\DAL.csproj|d:\\btl_2024\\btl_laptrinhmang\\btl_laptrinhmang\\database\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C9F4E4C-2C55-4414-B61B-E192B8A4A8F3}|Database\\DAL.csproj|solutionrelative:database\\query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5947AD7D-ECDB-4242-870C-443BF702DD42}|Form_Client1\\Form_Client1.csproj|d:\\btl_2024\\btl_laptrinhmang\\btl_laptrinhmang\\form_client1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5947AD7D-ECDB-4242-870C-443BF702DD42}|Form_Client1\\Form_Client1.csproj|solutionrelative:form_client1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5947AD7D-ECDB-4242-870C-443BF702DD42}|Form_Client1\\Form_Client1.csproj|D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\form_client1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5947AD7D-ECDB-4242-870C-443BF702DD42}|Form_Client1\\Form_Client1.csproj|solutionrelative:form_client1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{40AF2B1D-BE2B-4D2F-82E1-61162A373B23}|Client_tcp\\Client_tcp.csproj|d:\\btl_2024\\btl_laptrinhmang\\btl_laptrinhmang\\client_tcp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40AF2B1D-BE2B-4D2F-82E1-61162A373B23}|Client_tcp\\Client_tcp.csproj|solutionrelative:client_tcp\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4A7347D0-8052-4C8C-B142-E22CB707B2C6}|Server\\Server.csproj|d:\\btl_2024\\btl_laptrinhmang\\btl_laptrinhmang\\server\\server_tcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4A7347D0-8052-4C8C-B142-E22CB707B2C6}|Server\\Server.csproj|solutionrelative:server\\server_tcp.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570916F0-E4AC-406B-9F2D-73BF63B9D516}|QuanLiTuDien\\QuanLiTuDien.csproj|d:\\btl_2024\\btl_laptrinhmang\\btl_laptrinhmang\\quanlitudien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{570916F0-E4AC-406B-9F2D-73BF63B9D516}|QuanLiTuDien\\QuanLiTuDien.csproj|solutionrelative:quanlitudien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{570916F0-E4AC-406B-9F2D-73BF63B9D516}|QuanLiTuDien\\QuanLiTuDien.csproj|D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\quanlitudien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{570916F0-E4AC-406B-9F2D-73BF63B9D516}|QuanLiTuDien\\QuanLiTuDien.csproj|solutionrelative:quanlitudien\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2E530927-9DD2-45EC-AE20-968D1EA3B2FF}|BUS\\BUS.csproj|d:\\btl_2024\\btl_laptrinhmang\\btl_laptrinhmang\\bus\\bus_query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2E530927-9DD2-45EC-AE20-968D1EA3B2FF}|BUS\\BUS.csproj|solutionrelative:bus\\bus_query.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 290,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Query.cs",
+              "DocumentMoniker": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\Database\\Query.cs",
+              "RelativeDocumentMoniker": "Database\\Query.cs",
+              "ToolTip": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\Database\\Query.cs",
+              "RelativeToolTip": "Database\\Query.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwDsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T06:17:10.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\QuanLiTuDien\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLiTuDien\\Form1.cs",
+              "ToolTip": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\QuanLiTuDien\\Form1.cs",
+              "RelativeToolTip": "QuanLiTuDien\\Form1.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAArwB4AAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T07:02:29.373Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\QuanLiTuDien\\Form1.cs",
+              "RelativeDocumentMoniker": "QuanLiTuDien\\Form1.cs",
+              "ToolTip": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\QuanLiTuDien\\Form1.cs [Design]",
+              "RelativeToolTip": "QuanLiTuDien\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T06:55:56.511Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BUS_query.cs",
+              "DocumentMoniker": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\BUS\\BUS_query.cs",
+              "RelativeDocumentMoniker": "BUS\\BUS_query.cs",
+              "ToolTip": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\BUS\\BUS_query.cs",
+              "RelativeToolTip": "BUS\\BUS_query.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAlwA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T15:35:21.744Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Server_tcp.cs",
+              "DocumentMoniker": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\Server\\Server_tcp.cs",
+              "RelativeDocumentMoniker": "Server\\Server_tcp.cs",
+              "ToolTip": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\Server\\Server_tcp.cs",
+              "RelativeToolTip": "Server\\Server_tcp.cs",
+              "ViewState": "AQIAAC0AAAAAAAAAAAAAAEEAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T10:03:23.82Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Client.cs",
+              "DocumentMoniker": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\Client_tcp\\Client.cs",
+              "RelativeDocumentMoniker": "Client_tcp\\Client.cs",
+              "ToolTip": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\Client_tcp\\Client.cs",
+              "RelativeToolTip": "Client_tcp\\Client.cs",
+              "ViewState": "AQIAAEsAAAAAAAAAAAAowCAAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:56:29.792Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\Form_Client1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form_Client1\\Form1.cs",
+              "ToolTip": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\Form_Client1\\Form1.cs",
+              "RelativeToolTip": "Form_Client1\\Form1.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAWwIEAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:52:34.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\Form_Client1\\Form1.cs",
+              "RelativeDocumentMoniker": "Form_Client1\\Form1.cs",
+              "ToolTip": "D:\\BTL_2024\\BTL_Laptrinhmang\\BTL_Laptrinhmang\\Form_Client1\\Form1.cs [Design]",
+              "RelativeToolTip": "Form_Client1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-04T09:44:15.86Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1498,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
