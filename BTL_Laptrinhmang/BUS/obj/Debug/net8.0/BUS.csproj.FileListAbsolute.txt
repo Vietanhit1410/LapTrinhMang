@@ -1,0 +1,15 @@
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\BUS\bin\Debug\net8.0\BUS.deps.json
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\BUS\bin\Debug\net8.0\BUS.dll
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\BUS\bin\Debug\net8.0\BUS.pdb
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\BUS\bin\Debug\net8.0\DAL.dll
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\BUS\bin\Debug\net8.0\DAL.pdb
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\BUS\obj\Debug\net8.0\BUS.csproj.AssemblyReference.cache
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\BUS\obj\Debug\net8.0\BUS.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\BUS\obj\Debug\net8.0\BUS.AssemblyInfoInputs.cache
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\BUS\obj\Debug\net8.0\BUS.AssemblyInfo.cs
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\BUS\obj\Debug\net8.0\BUS.csproj.CoreCompileInputs.cache
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\BUS\obj\Debug\net8.0\BUS.csproj.Up2Date
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\BUS\obj\Debug\net8.0\BUS.dll
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\BUS\obj\Debug\net8.0\refint\BUS.dll
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\BUS\obj\Debug\net8.0\BUS.pdb
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\BUS\obj\Debug\net8.0\ref\BUS.dll

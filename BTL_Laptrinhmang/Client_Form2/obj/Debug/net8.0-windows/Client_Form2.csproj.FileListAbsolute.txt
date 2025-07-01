@@ -1,0 +1,7 @@
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_Form2\obj\Debug\net8.0-windows\Client_Form2.csproj.AssemblyReference.cache
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_Form2\obj\Debug\net8.0-windows\Client_Form2.Client2.resources
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_Form2\obj\Debug\net8.0-windows\Client_Form2.csproj.GenerateResource.cache
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_Form2\obj\Debug\net8.0-windows\Client_Form2.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_Form2\obj\Debug\net8.0-windows\Client_Form2.AssemblyInfoInputs.cache
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_Form2\obj\Debug\net8.0-windows\Client_Form2.AssemblyInfo.cs
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_Form2\obj\Debug\net8.0-windows\Client_Form2.csproj.CoreCompileInputs.cache

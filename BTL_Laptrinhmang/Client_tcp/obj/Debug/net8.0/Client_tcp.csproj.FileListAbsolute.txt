@@ -1,0 +1,15 @@
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_tcp\bin\Debug\net8.0\Client_tcp.deps.json
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_tcp\bin\Debug\net8.0\Client_tcp.dll
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_tcp\bin\Debug\net8.0\Client_tcp.pdb
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_tcp\obj\Debug\net8.0\Client_tcp.GeneratedMSBuildEditorConfig.editorconfig
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_tcp\obj\Debug\net8.0\Client_tcp.AssemblyInfoInputs.cache
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_tcp\obj\Debug\net8.0\Client_tcp.AssemblyInfo.cs
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_tcp\obj\Debug\net8.0\Client_tcp.csproj.CoreCompileInputs.cache
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_tcp\obj\Debug\net8.0\Client_tcp.dll
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_tcp\obj\Debug\net8.0\refint\Client_tcp.dll
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_tcp\obj\Debug\net8.0\Client_tcp.pdb
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_tcp\obj\Debug\net8.0\ref\Client_tcp.dll
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_tcp\bin\Debug\net8.0\DTO.dll
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_tcp\bin\Debug\net8.0\DTO.pdb
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_tcp\obj\Debug\net8.0\Client_tcp.csproj.AssemblyReference.cache
+D:\BTL_2024\BTL_Laptrinhmang\BTL_Laptrinhmang\Client_tcp\obj\Debug\net8.0\Client_tcp.csproj.Up2Date
